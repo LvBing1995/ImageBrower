@@ -16,7 +16,7 @@ Add it in your root build.gradle at the end of repositories:
 Add the dependency
 
     dependencies {
-        implementation 'com.github.iielse:ImageWatcher:1.1.0'
+        implementation 'com.github.LvBing1995:ImageBrower:1.1.0'
     }
 
 ## 初始化API简介 ##
