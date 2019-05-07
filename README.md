@@ -1,5 +1,5 @@
 
-就是转自[高仿微信可拖拽返回][1],为了应付需求变动问题，先拉下来，之后好方便维护修改。 
+（支持手指拖动返回，动画逐渐缩小变淡会回到原来图片的位置）
 
 ## 集成 ##
 Add it in your root build.gradle at the end of repositories:
