@@ -1,4 +1,4 @@
-package com.github.ielse.imagewatcher;
+package com.github.lvbing.imagewatcher;
 
 import android.net.Uri;
 import android.support.v4.app.Fragment;
@@ -10,6 +10,8 @@ import android.util.SparseArray;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
+
+import com.github.ielse.imagewatcher.R;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.github.ielse.imagewatcher;
+package com.github.lvbing.imagewatcher;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -32,6 +32,8 @@ import android.view.animation.DecelerateInterpolator;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import com.github.ielse.imagewatcher.R;
 
 import java.lang.ref.WeakReference;
 import java.util.ArrayList;

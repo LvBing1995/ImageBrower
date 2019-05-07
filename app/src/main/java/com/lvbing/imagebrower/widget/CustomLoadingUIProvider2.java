@@ -8,7 +8,7 @@ import android.view.ViewGroup;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
 
-import com.github.ielse.imagewatcher.ImageWatcher;
+import com.github.lvbing.imagewatcher.ImageWatcher;
 import com.lvbing.imagebrower.R;
 
 public class CustomLoadingUIProvider2 implements ImageWatcher.LoadingUIProvider {

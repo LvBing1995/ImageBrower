@@ -9,8 +9,8 @@ import android.util.SparseArray;
 import android.widget.ImageView;
 import android.widget.Toast;
 
-import com.github.ielse.imagewatcher.ImageWatcher;
-import com.github.ielse.imagewatcher.ImageWatcherHelper;
+import com.github.lvbing.imagewatcher.ImageWatcher;
+import com.github.lvbing.imagewatcher.ImageWatcherHelper;
 import com.lvbing.imagebrower.widget.CustomLoadingUIProvider2;
 import com.lvbing.imagebrower.widget.DecorationLayout;
 import com.lvbing.imagebrower.widget.MessagePicturesLayout;

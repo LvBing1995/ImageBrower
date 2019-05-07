@@ -1,4 +1,4 @@
-package com.github.ielse.imagewatcher;
+package com.github.lvbing.imagewatcher;
 
 import android.content.Context;
 import android.content.res.Resources;

@@ -1,8 +1,10 @@
-package com.github.ielse.imagewatcher;
+package com.github.lvbing.imagewatcher;
 
 import android.animation.Animator;
 import android.animation.ValueAnimator;
 import android.view.View;
+
+import com.github.ielse.imagewatcher.R;
 
 /**
  * ViewState包含记录了一个View的瞬时UI状态<br/>

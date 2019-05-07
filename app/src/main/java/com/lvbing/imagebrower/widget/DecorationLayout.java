@@ -10,8 +10,8 @@ import android.widget.FrameLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.github.ielse.imagewatcher.ImageWatcher;
-import com.github.ielse.imagewatcher.ImageWatcherHelper;
+import com.github.lvbing.imagewatcher.ImageWatcher;
+import com.github.lvbing.imagewatcher.ImageWatcherHelper;
 import com.lvbing.imagebrower.R;
 
 public class DecorationLayout extends FrameLayout implements ViewPager.OnPageChangeListener, View.OnClickListener {
