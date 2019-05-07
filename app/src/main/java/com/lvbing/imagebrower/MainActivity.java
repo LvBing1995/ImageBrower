@@ -79,18 +79,18 @@ public class MainActivity extends AppCompatActivity {
     public void initData(){
        List<String> list = new ArrayList<>();
        //list.add(resourceIdToUri(this,R.drawable.ic_launcher_round));
-        list.add("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1557206406246&di=878bb696a9eee9b92ec895c5a118be48&imgtype=0&src=http%3A%2F%2Fn.sinaimg.cn%2Fsinacn18%2F158%2Fw1000h1558%2F20180514%2Ffba1-hapkuvk5849711.jpg");
-        list.add("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1557206406244&di=954a93de3db7bd21a9c9b6eadf9a25e2&imgtype=0&src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2Fc004e90edb36638ede23433f8be341b7deb6b82eb1c73-8T7AUd_fw658");
-        list.add("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1557206406246&di=878bb696a9eee9b92ec895c5a118be48&imgtype=0&src=http%3A%2F%2Fn.sinaimg.cn%2Fsinacn18%2F158%2Fw1000h1558%2F20180514%2Ffba1-hapkuvk5849711.jpg");
-        list.add("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1557206406244&di=954a93de3db7bd21a9c9b6eadf9a25e2&imgtype=0&src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2Fc004e90edb36638ede23433f8be341b7deb6b82eb1c73-8T7AUd_fw658");
-        list.add("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1557206406246&di=878bb696a9eee9b92ec895c5a118be48&imgtype=0&src=http%3A%2F%2Fn.sinaimg.cn%2Fsinacn18%2F158%2Fw1000h1558%2F20180514%2Ffba1-hapkuvk5849711.jpg");
-        list.add("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1557206406244&di=954a93de3db7bd21a9c9b6eadf9a25e2&imgtype=0&src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2Fc004e90edb36638ede23433f8be341b7deb6b82eb1c73-8T7AUd_fw658");
-        list.add("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1557206406246&di=878bb696a9eee9b92ec895c5a118be48&imgtype=0&src=http%3A%2F%2Fn.sinaimg.cn%2Fsinacn18%2F158%2Fw1000h1558%2F20180514%2Ffba1-hapkuvk5849711.jpg");
-        list.add("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1557206406244&di=954a93de3db7bd21a9c9b6eadf9a25e2&imgtype=0&src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2Fc004e90edb36638ede23433f8be341b7deb6b82eb1c73-8T7AUd_fw658");
-        list.add("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1557206406246&di=878bb696a9eee9b92ec895c5a118be48&imgtype=0&src=http%3A%2F%2Fn.sinaimg.cn%2Fsinacn18%2F158%2Fw1000h1558%2F20180514%2Ffba1-hapkuvk5849711.jpg");
-        list.add("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1557206406244&di=954a93de3db7bd21a9c9b6eadf9a25e2&imgtype=0&src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2Fc004e90edb36638ede23433f8be341b7deb6b82eb1c73-8T7AUd_fw658");
-        list.add("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1557206406246&di=878bb696a9eee9b92ec895c5a118be48&imgtype=0&src=http%3A%2F%2Fn.sinaimg.cn%2Fsinacn18%2F158%2Fw1000h1558%2F20180514%2Ffba1-hapkuvk5849711.jpg");
-        list.add("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1557206406244&di=954a93de3db7bd21a9c9b6eadf9a25e2&imgtype=0&src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2Fc004e90edb36638ede23433f8be341b7deb6b82eb1c73-8T7AUd_fw658");
+        list.add("https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=48862734,2553617590&fm=26&gp=0.jpg");
+        list.add("https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1994746070,2714528134&fm=26&gp=0.jpg");
+        list.add("https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1715311538,580842961&fm=26&gp=0.jpg");
+        list.add("https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1904172484,780341692&fm=26&gp=0.jpg");
+        list.add("https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=4152928986,3667912765&fm=26&gp=0.jpg");
+        list.add("https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=314778262,221887167&fm=26&gp=0.jpg");
+        list.add("https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3003850068,319015333&fm=26&gp=0.jpg");
+        list.add("https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3802677255,615587436&fm=26&gp=0.jpg");
+        list.add("https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2177215829,3457107276&fm=26&gp=0.jpg");
+        list.add("https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=459464203,649273976&fm=26&gp=0.jpg");
+        list.add("https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1220953158,877765257&fm=26&gp=0.jpg");
+        list.add("https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3540925770,1176889754&fm=26&gp=0.jpg");
         messagePicturesLayout.set(convert(list));
     }
     private List<Uri> convert(List<String> data) {
@@ -98,9 +98,8 @@ public class MainActivity extends AppCompatActivity {
         for (String d : data) list.add(Uri.parse(d));
         return list;
     }
-    public static final String ANDROID_RESOURCE = "android.resource://";
-    public static final String FOREWARD_SLASH = "/";
+
     private static Uri resourceIdToUri(Context context, int resourceId) {
-        return Uri.parse(ANDROID_RESOURCE + context.getPackageName() + FOREWARD_SLASH + resourceId);
+        return Uri.parse("android.resource://" + context.getPackageName() + "/" + resourceId);
     }
 }
